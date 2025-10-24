@@ -1,2 +1,3 @@
 Querido diario: Hoy fue un dia tranquilito.
-Querido diario: Aprendi a usar git hoy.
+Querido diario: Aprendi a usar GitHub hoy.
+Querido diario: Hoy me pelee con GitHub.
